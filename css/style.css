@@ -1,6 +1,14 @@
 * {
   box-sizing: border-box;
 }
+@import url();
+body{
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-fon-smoothing: grayscale;
+  line-height: 1.42;
+}
 
 body,
 html {
